@@ -44,7 +44,20 @@ Mi objetivo es participar en proyectos que aporten soluciones reales y continuar
 
 ## 🚀 Proyectos Destacados
 
-### 📌 Proyecto 1 - Nombre del Proyecto
+### 📌 Proyecto 1 - Carrito de Compras JS
+**Descripción:** Breve explicación del proyecto.
+
+**Tecnologías:** HTML, CSS, JavaScript
+
+🔗 Repositorio:
+[Ver proyecto](https://github.com/DomiAndi/Carrito-de-Compras-JS)
+
+🌍 Demo:
+[Ver sitio](https://unique-kataifi-107698.netlify.app/)
+
+---
+
+### 📌 Proyecto 2 - Nombre del Proyecto
 **Descripción:** Breve explicación del proyecto.
 
 **Tecnologías:** HTML, CSS, JavaScript
@@ -54,19 +67,6 @@ Mi objetivo es participar en proyectos que aporten soluciones reales y continuar
 
 🌍 Demo:
 [Ver sitio](https://tu-demo.netlify.app)
-
----
-
-### 📌 Proyecto 2 - Carrito de Compras
-**Descripción:** Breve explicación del proyecto.
-
-**Tecnologías:** HTML, CSS, JavaScript
-
-🔗 Repositorio:
-[Ver proyecto](https://github.com/TU-USUARIO/proyecto)
-
-🌍 Demo:
-[Ver sitio](https://unique-kataifi-107698.netlify.app/)
 
 ---
 
